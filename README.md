@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Kvanzi
-- 🌱 I’m currently learning Java Backend Developing
-- 📫 How to reach me: Discord - Kvanzi
+- 🌱 Java backend dev
+- 📫 How to reach me: Discord - Kvanzi, Telegram: KvanziDev
